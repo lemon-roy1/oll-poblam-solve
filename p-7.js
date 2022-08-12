@@ -6,3 +6,7 @@ while( num < 20 ){
     console.log (num)
     num+= 2;
 }
+for(let i = 7 ; i < 20; i+=2){
+ 
+    console.log(i)
+}
